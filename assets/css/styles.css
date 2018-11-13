@@ -137,9 +137,10 @@ main {
 #about-image {
   /* Positioning */
   float: left;
-
+  transform: rotate(270deg);
   /* Box-model */
   width: 200px;
+  height: 200px;
   margin: 0 20px 10px 0;
 }
 /* END ABOUT-ME PAGE */
